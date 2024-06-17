@@ -1,5 +1,5 @@
 ---
 title: "About"
 ---
-
-Hunter Stephens
+## About Me
+My name is **Hunter Stephens**, I attend *Archbishop Stepinac* in White Plains, NY
