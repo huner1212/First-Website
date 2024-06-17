@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c6879776-83e2-45ec-bfb3-69de6b150353
+      url: 'https://hunter-stephens.quarto.pub/a-new-website'
